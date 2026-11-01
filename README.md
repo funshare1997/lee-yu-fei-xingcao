@@ -4,11 +4,11 @@
 
 ## 直接下載
 
-**[下載三款字型完整包（ZIP）](https://github.com/funshare1997/lee-yu-fei-xingcao/releases/latest/download/LiYuFeiXingCao-v1.401.zip)**　·　[所有發行版本](https://github.com/funshare1997/lee-yu-fei-xingcao/releases)
+**[下載完整包（ZIP）](https://github.com/funshare1997/lee-yu-fei-xingcao/releases/latest/download/LeeYuFeiXingCao-v1.401.zip)**　·　[所有發行版本](https://github.com/funshare1997/lee-yu-fei-xingcao/releases)
 
 下載 ZIP、解壓縮後，開啟 `fonts` 資料夾安裝三個 `.ttf`。GitHub 自動產生的 Source code 壓縮檔只有介紹與字表；需要字型請使用上面的完整包。
 
-![李羽菲行草三字重實際排字](previews/three-weights.png)
+![李羽菲行草細體、中體、粗體實際排字](previews/three-weights.png)
 
 ## Windows／Word 安裝
 
@@ -18,9 +18,9 @@
 
 | Word 搜尋名稱 | 固定檔名 |
 |---|---|
-| 李羽菲行草 細體 | LiYuFeiXingCao-Light.ttf |
-| 李羽菲行草 中體 | LiYuFeiXingCao-Medium.ttf |
-| 李羽菲行草 粗體 | LiYuFeiXingCao-Bold.ttf |
+| 李羽菲行草 細體 | LeeYuFeiXingCao-Light.ttf |
+| 李羽菲行草 中體 | LeeYuFeiXingCao-Medium.ttf |
+| 李羽菲行草 粗體 | LeeYuFeiXingCao-Bold.ttf |
 
 字型搜尋名稱不附版本號。若更新後仍看到舊字型，請先確認所有 Word 視窗都已退出，再重新開啟；必要時重新啟動 Windows。
 
@@ -62,7 +62,7 @@ CC BY-ND 4.0 允許符合條款的原版商業與非商業散布，不允許散�
 
 - [全部 13,084 個中文字（可複製）](characters/hanzi-13084.txt)
 - [數字、英文及符號（可複製）](characters/latin-digits-symbols.txt)
-- [英文、數字與符號三字重預覽](previews/)
+- [英文、數字與符號預覽](previews/)
 - [版本紀錄](CHANGELOG.md)
 
 ## 製作與使用範圍
