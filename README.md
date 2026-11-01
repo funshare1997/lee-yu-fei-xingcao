@@ -8,7 +8,7 @@
 
 下載 ZIP、解壓縮後，開啟 `fonts` 資料夾安裝三個 `.ttf`。GitHub 自動產生的 Source code 壓縮檔只有介紹與字表；需要字型請使用上面的完整包。
 
-![李羽菲行草細體、中體、粗體實際排字](previews/three-weights.png)
+![李羽菲行草細體、中體、粗體實際排字](previews/three-weights.png?preview=clean)
 
 ## Windows／Word 安裝
 
