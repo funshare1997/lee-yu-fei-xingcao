@@ -1,0 +1,38 @@
+李羽菲行草
+收錄細體、中體、粗體三款。
+姓名標示：李羽菲
+字型檔授權：創用 CC「姓名標示－禁止改作」4.0 國際。
+分享原版字型時，請保留本聲明及授權連結。
+另明文允許使用本字型製作商業及非商業的海報、影片、印刷品等成品，成品不必逐件標示字型姓名。
+
+授權連結：https://creativecommons.org/licenses/by-nd/4.0/
+中文摘要：https://creativecommons.org/licenses/by-nd/4.0/deed.zh-hant
+發布者與指定姓名標示：李羽菲
+原始發布：https://github.com/funshare1997/lee-yu-fei-xingcao
+
+字型檔與一般排字成品的適用範圍
+上述成品許可是李羽菲另行授予的額外許可：一般排字成品得商業或非商業使用、重製、公開展示及散布，無須逐件附上字型姓名或 CC 授權。作品本身不會僅因使用此字型而被要求改用 CC BY-ND。
+單獨分享字型檔或成品所包含的字型檔資料，仍依 CC BY-ND 4.0 辦理，保留本聲明與授權連結。此補充不縮減 CC BY-ND 4.0 原已授予的權利；包括其允許的商業散布、私人改作及必要技術性格式轉換。
+本補充不是對 CC 標準授權本文的修改。完整標準條款見 LICENSE.txt。
+
+製作說明
+本字型採 AI 輔助字形生成，經字形選取、向量化、字重調整與檢查整理。13,084 是本專案的中文字收錄數量，不代表教育部認證或與教育部某一版本逐字相同。未使用教育部字型檔或輪廓。
+本授權僅及於發布者有權授予的權利，不對各地法律下每個字形的著作權保護範圍作額外保證。
+字型以現狀提供，未經專業正字審定；如發現缺字、錯字或筆畫問題，請在 GitHub Issues 回報字元、使用字重及截圖。
+
+English notice
+
+Lee Yu Fei Xingcao
+Includes three weights: Light, Medium, and Bold.
+Attribution name: Lee Yu Fei (李羽菲).
+Font files are licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0).
+When sharing the original font files, please retain this notice and the license link.
+Additional permission is expressly granted to use this font to create commercial and noncommercial posters, videos, printed materials, and similar finished works. Such finished works do not require individual font attribution.
+License: https://creativecommons.org/licenses/by-nd/4.0/
+Original publication: https://github.com/funshare1997/lee-yu-fei-xingcao
+
+Scope of the additional permission
+Ordinary typeset outputs may be used, reproduced, displayed, and distributed for commercial or noncommercial purposes without per-output font attribution. Such outputs do not become subject to CC BY-ND solely because this font was used. Font files or font-file data distributed separately or included in a finished work remain subject to CC BY-ND 4.0. This additional permission does not narrow rights already granted by the standard license, including commercial redistribution, private adaptations, and necessary technical format changes. The standard license text in LICENSE.txt is unmodified.
+
+Production note
+The font was created with AI-assisted glyph generation, followed by selection, vectorization, weight adjustment, and review. Lee Yu Fei is the publisher and designated attribution name. The count of 13,084 Han characters is this project's coverage target, not a claim of official endorsement or an identical Ministry of Education repertoire. No Ministry of Education font files or outlines were used. The license covers only rights the publisher is entitled to grant. The font is provided as-is and has not undergone professional orthographic certification. Please report glyph issues through GitHub Issues.
